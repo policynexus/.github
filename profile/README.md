@@ -1,13 +1,12 @@
 # PolicyNexus.eu
 
-Many organizations often publish valuable ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
+Many organizations often publish ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
 
 One significant challenge is that many individuals simply lack the time to scour numerous websites belonging to various organizations in search of updates.
 
-At PolicyNexus, our mission is to address this issue by enhancing accessibility to these documents for the public. We provide a centralized platform where users can easily access policies and publications from a wide array of organizations.
+At Policy Nexus, our mission is to address this issue by enhancing accessibility to these documents for the public. We provide a centralized platform where users can easily access policies and publications from a wide array of organizations.
 
-Moreover, we are dedicated to keeping users informed about new policies and updates directly related to their favorite organizations.
-
+Moreover we want to provide users with lots of cool features, like to get Statistics about the published Policies or enable notifications if there are changes for the organizations you subscribed to.
 
 ## Development Links and Tools
 
