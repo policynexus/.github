@@ -13,7 +13,10 @@ Moreover we want to provide users with lots of cool features, like to get Statis
 - [GitHub - Kanban Board](https://github.com/orgs/policynexus/projects/1)
 - [GitHub - Repositories](https://github.com/orgs/policynexus/repositories)
 
-## Upcomming Websites
+## Our Websites
 
-- [policynexus.eu](https://policynexus.eu/) (not created yet)
+Our main website on **policynexus.eu** is not there yet,
+but we already started to develop our documentation in public.
+The documentation is available on:
+
 - [docs.policynexus.eu](https://docs.policynexus.eu/) (Technical draft)
