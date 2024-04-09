@@ -1,42 +1,22 @@
-# README Boilerplate
+# PolicyNexus.eu
 
-A template of README best practices to make your README simple to understand and easy to use. 
+Many organizations often publish valuable ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
 
-## Table of Contents
+One significant challenge is that many individuals simply lack the time to scour numerous websites belonging to various organizations in search of updates.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
+At PolicyNexus, our mission is to address this issue by enhancing accessibility to these documents for the public. We provide a centralized platform where users can easily access policies and publications from a wide array of organizations.
 
-## Installation
+Moreover, we are dedicated to keeping users informed about new policies and updates directly related to their favorite organizations.
 
-Download to your project directory, add `README.md`, and commit:
+## Upcomming Websites
 
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
+- [policynexus.eu](https://policynexus.eu/) (not created yet)
+- [docs.policynexus.eu](https://docs.policynexus.eu/) (Technical draft)
 
-## Usage
 
-Replace the contents of `README.md` with your project's:
+## Development Links and Tools
 
-- Name
-- Description
-- Installation instructions
-- Usage instructions
-- Support instructions
-- Contributing instructions
-- Licence
+- [GitHub - Kanban Board](https://github.com/orgs/policynexus/projects/1)
+- [GitHub - Repositories](https://github.com/orgs/policynexus/repositories)
 
-Feel free to remove any sections that aren't applicable to your project.
 
-## Support
-
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
-
-## Contributing
-
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
