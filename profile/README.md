@@ -1,4 +1,4 @@
-# PolicyNexus.eu
+# Policy Nexus
 
 Many organizations often publish ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
 
