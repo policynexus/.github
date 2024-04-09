@@ -17,6 +17,4 @@ Moreover we want to provide users with lots of cool features, like to get Statis
 
 Our main website on **policynexus.eu** is not there yet,
 but we already started to develop our documentation in public.
-The documentation is available on:
-
-- [docs.policynexus.eu](https://docs.policynexus.eu/) (Technical draft)
+The documentation is available on:[docs.policynexus.eu](https://docs.policynexus.eu/).
