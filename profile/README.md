@@ -8,15 +8,13 @@ At PolicyNexus, our mission is to address this issue by enhancing accessibility 
 
 Moreover, we are dedicated to keeping users informed about new policies and updates directly related to their favorite organizations.
 
-## Upcomming Websites
-
-- [policynexus.eu](https://policynexus.eu/) (not created yet)
-- [docs.policynexus.eu](https://docs.policynexus.eu/) (Technical draft)
-
 
 ## Development Links and Tools
 
 - [GitHub - Kanban Board](https://github.com/orgs/policynexus/projects/1)
 - [GitHub - Repositories](https://github.com/orgs/policynexus/repositories)
 
+## Upcomming Websites
 
+- [policynexus.eu](https://policynexus.eu/) (not created yet)
+- [docs.policynexus.eu](https://docs.policynexus.eu/) (Technical draft)
