@@ -1,12 +1,42 @@
-## Hi there 👋
+# README Boilerplate
 
-<!--
+A template of README best practices to make your README simple to understand and easy to use. 
 
-**Here are some ideas to get you started:**
+## Table of Contents
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
+
+## Installation
+
+Download to your project directory, add `README.md`, and commit:
+
+```sh
+curl -LO http://git.io/Xy0Chg
+git add README.md
+git commit -m "Use README Boilerplate"
+```
+
+## Usage
+
+Replace the contents of `README.md` with your project's:
+
+- Name
+- Description
+- Installation instructions
+- Usage instructions
+- Support instructions
+- Contributing instructions
+- Licence
+
+Feel free to remove any sections that aren't applicable to your project.
+
+## Support
+
+Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
+
+## Contributing
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
