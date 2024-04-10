@@ -6,7 +6,7 @@ One significant challenge is that many individuals simply lack the time to scour
 
 At Policy Nexus, our mission is to address this issue by enhancing accessibility to these documents for the public. We provide a centralized platform where users can easily access policies and publications from a wide array of organizations.
 
-Moreover we want to provide users with lots of cool features, like to get Statistics about the published Policies or enable notifications if there are changes for the organizations you subscribed to.
+Moreover we want to provide users with lots of cool features, like to get Statistics about the published Policies or enable notifications if there are changes for the organizations you subscribed to. This should enable users to track an organizations development and the direction it is moving. 
 
 ## Development Links and Tools
 
